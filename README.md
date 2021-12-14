@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sniffin3083
+- 👀 I’m interested in learning more about the world and how new types of software can bring it together
+- 🌱 I’m currently learning Java, C++, C#, HTML, CSS, JavaScript, Node.js, and SQL
+- 💞️ I’m looking to collaborate on big projects that continuously challenge me 
+- 📫 You can reach me on LinkedIn
