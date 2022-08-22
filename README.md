@@ -9,11 +9,15 @@ I use this GitHub account to push and store personal projects of mine whether th
 - CSS
 - JavaScript
 - React
-- Node.JS
+- Node.js
 - and more!
 
 ## Conclusion
 I enjoy programming and I hope to work on more and even better projects in the future!
+
+If you would like to know more about me you can learn more on my portfolio site I developed using React here:
+
+https://Sniffin3083.github.io/Portfolio-Site 
 
 Thanks for reading!
 
