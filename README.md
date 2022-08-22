@@ -5,18 +5,11 @@ I use this GitHub account to push and store personal projects of mine whether th
 
 ## Skills
 - Java
-- C++
-- Python
 - HTML
 - CSS
 - JavaScript
-- TypeScript
-- PHP
 - React
 - Node.JS
-- Express.js
-- Kotlin
-- Swift
 - and more!
 
 ## Conclusion
