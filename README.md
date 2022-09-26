@@ -13,11 +13,7 @@ I use this GitHub account to push and store personal projects of mine whether th
 - and more!
 
 ## Conclusion
-I enjoy programming and I hope to work on more and even better projects in the future!
-
-If you would like to know more about me you can learn more on my portfolio site I developed using React here:
-
-https://Sniffin3083.github.io/Portfolio-Site 
+I enjoy programming and I hope to work on even better projects that challenge me and make a better programmer in the future!
 
 Thanks for reading!
 
