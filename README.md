@@ -8,6 +8,7 @@ I use this GitHub account to push and store personal projects of mine whether th
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React
 - Node.js
 - and more!
