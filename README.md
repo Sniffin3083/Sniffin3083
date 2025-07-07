@@ -18,4 +18,4 @@ I enjoy programming and I hope to work on even better projects that challenge me
 
 Thanks for reading!
 
-### Griffin
+### Mackenzie
